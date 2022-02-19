@@ -35,7 +35,7 @@ L.polyline(line, {
     color: "blue",
     weight: 4,
     opacity: 0.5,
-    
+    dashArray: '10,10',
   }).addTo(map);
 
 //////  Add a circle to the map for Los Angeles, California.
