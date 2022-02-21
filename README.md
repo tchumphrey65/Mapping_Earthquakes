@@ -21,3 +21,12 @@
   6. The major earthquake layer group variable is added to the map.
 
 ![deliverable 2](https://user-images.githubusercontent.com/91839403/154884665-1e9288e8-7866-411e-9f98-8e0a46c5a107.png)
+
+### Step 2 includes:
+  1. Using your knowledge of JavaScript and Leaflet.js add a third map style to your earthquake map.
+  2. Added one using Dark and Outdoors themes
+
+![image](https://user-images.githubusercontent.com/91839403/154885191-810a7f6d-ba14-4c9d-844b-72baa042ceed.png)
+
+
+![Screenshot (8)](https://user-images.githubusercontent.com/91839403/154885639-a536b5c2-0377-4559-85bf-024b1a48ba1a.png)
